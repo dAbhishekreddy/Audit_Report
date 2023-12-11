@@ -47,4 +47,4 @@ The contract `StorageVictim` contains a critical vulnerability
 related to uninitialized pointers. The recommended update might be
 helpful in enhancing the security of the contract.
 
-### Author: Yaswanth Sirigiri
+### Author: Abhishek
